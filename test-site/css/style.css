@@ -1,0 +1,45 @@
+.header {
+	font-size: 30px;
+	margin-top: 125px;
+	line-height: 1.5;
+}
+.header span {
+	display: block;
+}
+.video {
+	
+}
+.fs {
+margin-top: 85px;
+}
+.text-header {
+	font-size: 20px;
+	font-weight: 900;
+}
+.vssdf {
+	width: 295px;
+	height: 305px;
+	border: solid #472cc3;
+}
+.texp {
+	margin-top: 31px;
+}
+.sigma {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.header2 {
+	font-size: 30px;
+	margin-top: 152px;
+}
+.fitures {
+	margin-top: 80px;
+}
+.fitures p {
+	margin-top: 20px;
+	font-weight: 900;
+}
+.btnwx {
+	text-align: center;
+	margin-top: 98px;
+}
